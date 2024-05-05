@@ -8,18 +8,23 @@ Here are some screenshots of the Flutter Todo app:
 
 !Screenshot 1
 
-<p align="center"><img width=50% src="![1](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/0ecf97f1-b8bc-4441-95c2-90321c33ef4a)
-"></p>
+![1](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/67f949e3-9243-435e-a1e7-3d77ea1dbcff)
+
 
 !Screenshot 2
-<p align="center"><img width=50% src="![2](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/eadb89ac-ac97-4096-b6d4-64f95ce0785a)"></p>
+
+![2](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/64f6fd40-dc9f-498d-97e1-fcc36679c32c)
+
 
 !Screenshot 3
-<p align="center"><img width=50% src="![3](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/4f9983ba-27a8-42aa-bb75-be65c65bd7a6)"></p>
+
+![3](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/350a6693-7432-44c6-96cd-f513723c94ad)
+
 
 
 !Screenshot 4
-<p align="center"><img width=50% src="![4](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/f16fc4cd-c45a-4531-8fe0-e4ff2dc8aed6)"></p>
+
+![4](https://github.com/ZakariaAshraf/TEKNO-SOFT-TO-Do-App/assets/145775945/1698ed14-a163-443e-b22d-19e62aa704b4)
 
 
 ## Technologies Used
